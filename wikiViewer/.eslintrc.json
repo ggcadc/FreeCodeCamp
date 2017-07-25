@@ -1,0 +1,10 @@
+{
+    "extends": [
+      "airbnb-base",
+      "jquery"
+    ],
+    "globals": {
+       "$": true,
+       "jQuery": false
+   }
+}
